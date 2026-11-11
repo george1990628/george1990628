@@ -1,17 +1,15 @@
-# George Shen
+# Hi, I'm George
 
-Statistics student at UC Berkeley's College of Computing, Data Science, and Society. I'm interested in machine learning research, computer vision, and evaluating what models actually learn from their inputs.
+I'm a statistics student at UC Berkeley interested in AI/ML, computer vision, and research. I've worked on projects involving EEG-to-text models, wildfire detection, and medical data.
 
-## Projects
+## My projects
 
-| Project | Focus | Status |
+| Project | What I worked on | Status |
 | --- | --- | --- |
-| [EEG-to-text evaluation](https://github.com/george1990628/eeg-to-text-evaluation) | Reproduction, EEG/noise controls, and analysis of language-model priors. | Active research |
-| [Wildfire detection and segmentation](https://github.com/george1990628/wildfire-detection-segmentation) | Aerial fire classification, video evaluation, and U-Net segmentation; Pioneer Academics. | Historical research |
-| [CloudTCP segmentation](https://github.com/george1990628/cloudtcp-segmentation) | SegFormer-B0 road-feature segmentation with geospatial checks and per-class evaluation. | In progress |
-| [FashionMNIST robustness](https://github.com/george1990628/fashionmnist-robustness) | Hidden-layer, learning-rate, and noisy-input experiments; Lumiere Research. | Historical research |
-| [USC Keck exploratory analysis](https://github.com/george1990628/Gazoo-Research) | Tagged-record analysis and nearest-neighbor examples, demonstrated publicly on synthetic data. | Historical research |
+| [EEG-to-text](https://github.com/george1990628/eeg-to-text-evaluation) | Comparing real EEG with random noise to see how much the input affects the text a model generates. | In progress |
+| [Wildfire detection](https://github.com/george1990628/wildfire-detection-segmentation) | Classifying wildfire images and using U-Net to identify areas of fire for my Pioneer Academics research. | Past project |
+| [CloudTCP](https://github.com/george1990628/cloudtcp-segmentation) | Training SegFormer-B0 to identify curbs, lane markings, crosswalks, and median boundaries in aerial images. | In progress |
+| [FashionMNIST](https://github.com/george1990628/fashionmnist-robustness) | Testing how learning rates, hidden layers, and noisy images affect a classifier for my Lumiere research. | Past project |
+| [USC Keck research](https://github.com/george1990628/Gazoo-Research) | Analyzing clinical records with Pandas and trying nearest-neighbor and image-similarity methods. The examples here use synthetic data. | Past project |
 
-**Tools:** Python, NumPy, Pandas, PyTorch, TensorFlow/Keras, scikit-learn, and geospatial image processing.
-
-[GitHub](https://github.com/george1990628)
+I mainly work with Python, NumPy, Pandas, PyTorch, TensorFlow/Keras, and scikit-learn.
