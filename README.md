@@ -1,6 +1,3 @@
-# Hi, I'm George
-
-I'm a statistics student at UC Berkeley interested in AI/ML, computer vision, and research. I've worked on projects involving EEG-to-text models, wildfire detection, and medical data.
 
 ## My projects
 
